@@ -1,7 +1,7 @@
 
-# CallFromStranger
+## CallFromStranger 💬🎧
 
-🎙️ **CallFromStranger** — Real-time anonymous voice chat. Connect and talk with strangers instantly.  
+**CallFromStranger** — Real-time anonymous voice chat. Connect and talk with strangers instantly.  
 
 ---
 
@@ -18,4 +18,4 @@
 ---
 
 ## About
-A working full-stack voice chat website (backend hidden for security). Showcases **React, TailwindCSS, and WebRTC** skills with a clean, responsive UI—perfect for recruiters to see hands-on frontend and real-time web development experience.
+A working voice chat app showcasing **React, TailwindCSS, and real-time web development**. Backend is hidden for security. Designed with a clean and responsive UI, perfect for recruiters to explore frontend and full-stack capabilities.
